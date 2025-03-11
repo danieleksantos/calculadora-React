@@ -9,7 +9,7 @@ export const InputContainer = styled.div `
     align-items: center;
     justify-content: flex-end;
 
-    font-size:24px;
+    font-size:30px;
     font-family: 'Roboto';
 
     input {
@@ -20,7 +20,7 @@ export const InputContainer = styled.div `
     border:0;
     text-align: right;
 
-    font-size:24px;
+    font-size:30px;
     font-family: 'Roboto';
     color: #FFFFFF
     }

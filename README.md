@@ -14,5 +14,5 @@ Este projeto é uma calculadora desenvolvida em **React**, proporcionando uma ex
 ✔️ Atualiza dinamicamente os números na tela  
 
 ## 📸 Demonstração
-![Acesse a calculadora aqui](https://danieleksantos.github.io/calculadora-React/) 
+[Acesse a calculadora aqui](https://danieleksantos.github.io/calculadora-React/) 
 

@@ -1,4 +1,4 @@
-# 📌 Calculadora React
+# 📱 Calculadora React
 
 Este projeto é uma calculadora desenvolvida em **React**, proporcionando uma experiência interativa e dinâmica para cálculos básicos. Apesar de ser um projeto clássico para iniciantes e relativamente simples, este é o meu **primeiro projeto em React**, tornando-o um marco especial na minha jornada de aprendizado.
 
